@@ -1,0 +1,4 @@
+ Description : 
+	This script is a ware manager. it gets a database of products which are in the ware
+	and deals with functions that happens on the products such as add new products, send products
+	away and clean products from the ware.

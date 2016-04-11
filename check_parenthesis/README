@@ -1,0 +1,3 @@
+Description : 
+	This script checks the parenthesis of a given file. it checks 
+	wheter a given file can be compiled depends on its brackets. 

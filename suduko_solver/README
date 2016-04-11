@@ -1,0 +1,3 @@
+Description : 
+	This program is a suduku solver given a suduku board and solve it (if it's solvable)
+	using a DFS algorithm running on a tree representing a suduko board
